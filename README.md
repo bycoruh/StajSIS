@@ -1,16 +1,6 @@
 # StajSIS
 📌 **Masaüstü Tabanlı Staj Başvuru ve Yönetim Sistemi**  
 *(C#, Windows Forms, SQLite)*
-
----
-
-## 📥 İndir ve Çalıştır
-
-1. Sağ taraftaki **Releases** bölümünden en son sürümü indirin.  
-2. `.zip` dosyasını bilgisayarınıza çıkarın.  
-3. `StajSIS.exe` dosyasına çift tıklayarak uygulamayı başlatın.  
-4. Kurulum gerektirmez, taşınabilir (portable) çalışır.
-
 ---
 
 ## 🖥 Özellikler
